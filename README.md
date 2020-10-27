@@ -1,2 +1,2 @@
-# scala-maven
-Scala maven skeleton. For building fat jar with scala.
+# Skeleton for scala/java maven based project.
+
